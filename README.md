@@ -1,5 +1,5 @@
 # ClockHacks_SPACEOUT
-SPACE OUT! is a mix and match game that involves a flash card system to help you study and have fun at the same time!
+SPACE OUT! is a mix-and-match game that involves a flash card system to help you study and have fun at the same time!
 
 Here is the (devpost)[https://devpost.com/software/spaced-out-fbv7tz]
 
