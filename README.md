@@ -7,8 +7,8 @@ Space Out Is a flashcard game designed to help you have fun and study effectivel
 2) **SPACED LEARNING:** Whenever the user masters a card, they are rewarded with characters they can use to match and form new characters. This helps you take a 5-minute break when needed while providing further incentives to study.
 3) **NO MORE SPACING OUT:** This app is designed to retain your focus. Music and animations follow a calm beat (60-90 bpm), inducing your brain's “flow state”. Fun animations and graphics prevent users from becoming frustrated. :D
 
-Here is the [demo](https://www.youtube.com/watch?v=G3Pc61B7gCo)
-Here is the [devpost](https://devpost.com/software/spaced-out-fbv7tz)
+Here is the [demo](https://www.youtube.com/watch?v=G3Pc61B7gCo) 
+and the [devpost](https://devpost.com/software/spaced-out-fbv7tz)
 
 ## BUILT USING
 - [Unity](https://unity.com/download) - A game engine designed for real-time 3D & 2D projects
