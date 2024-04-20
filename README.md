@@ -5,8 +5,7 @@ I love flash cards. But I always find myself using them incorrectly, getting dis
 Space Out Is a flashcard game designed to help you have fun and study effectively at the same time! Here is how it works:
 1) **SPACE REPETITION:** Spaced Out! uses a spaced repetition system. As the user rates the difficulty of each flashcard, the program will show questions you struggle with more than the ones you don’t struggle with.
 2) **SPACED LEARNING:** Whenever the user masters a card, they are rewarded with characters they can use to match and form new characters. This helps you take a 5-minute break when needed while providing further incentives to study.
-3) **NO MORE SPACING OUT:** This app is designed to retain your focus. Music and animations follow a beat of roughly 60-90 bpm to induce your brain's “flow state”. Fun animations and graphics prevent users from becoming frustrated.
-
+3) **NO MORE SPACING OUT:** This app is designed to retain your focus. Music and animations follow a calm beat (60-90 bpm), inducing your brain's “flow state”. Fun animations and graphics prevent users from becoming frustrated. :D
 
 Here is the [demo](https://www.youtube.com/watch?v=G3Pc61B7gCo)
 Here is the [devpost](https://devpost.com/software/spaced-out-fbv7tz)
