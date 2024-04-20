@@ -8,7 +8,7 @@ Space Out Is a flashcard game designed to help you have fun and study effectivel
 3) **NO MORE SPACING OUT:** This app is designed to retain your focus. Music and animations follow a beat of roughly 60-90 bpm to induce your brain's “flow state”. Fun animations and graphics prevent users from becoming frustrated.
 
 
-Here is the [demo]   (https://www.youtube.com/watch?v=G3Pc61B7gCo)
+Here is the [demo](https://www.youtube.com/watch?v=G3Pc61B7gCo)
 Here is the [devpost](https://devpost.com/software/spaced-out-fbv7tz)
 
 ## BUILT USING
